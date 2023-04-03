@@ -3,9 +3,11 @@
   <img align="left" alt="Mescanah's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://www.linkedin.com/in/nnaemeka-hillary-onah-ab378357/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Mescanah's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
+<a href="https://twitter.com/mescanap">
+  <img align="left" alt="Mescanah Onah | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
 <!--
 **mescanah/mescanah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
