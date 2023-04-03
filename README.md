@@ -8,6 +8,9 @@
 <a href="https://twitter.com/mescanap">
   <img align="left" alt="Mescanah Onah | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
+<a href="https://medium.com/@mescanah">
+  <img align="left" alt="Mescanah's Medium" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
 <!--
 **mescanah/mescanah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
