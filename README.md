@@ -11,6 +11,10 @@
 <a href="https://medium.com/@mescanah">
   <img align="left" alt="Mescanah's Medium" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
+
+hi, i'm [Nnaemeka Hillary Onah](https://mescanah.me/), a passionate about data and how it can be transformed to bring about meaningful insight to business solution. 
+
+  <img align="right" alt="GIF" src="https://github.com/mescanah/mescanah/blob/master/code.gif?raw=true" width="500" height="320" />
 <!--
 **mescanah/mescanah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
