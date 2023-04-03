@@ -2,6 +2,9 @@
 <a href="https://www.instagram.com/h.mescanah/">
   <img align="left" alt="Mescanah's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
+<a href="https://www.linkedin.com/in/nnaemeka-hillary-onah-ab378357/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
 <!--
 **mescanah/mescanah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
