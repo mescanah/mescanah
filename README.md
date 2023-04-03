@@ -15,7 +15,17 @@
 
 <br />
 
+hi, i'm Nnaemeka Hillary Onah. I am passionate about data and how it can be transformed to bring about meaningful insight to business solution. 
 
+<img align="right" alt="GIF" src="https://github.com/mescanah/mescanah/blob/master/code.gif?raw=true" width="500" height="320" />
+
+**languages and tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
 **mescanah/mescanah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
