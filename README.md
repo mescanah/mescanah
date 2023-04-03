@@ -12,6 +12,7 @@
   <img align="left" alt="Mescanah's Medium" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 
+<br />
 
 hi, i'm Nnaemeka Hillary Onah. I am passionate about data and how it can be transformed to bring about meaningful insight to business solution. 
 
