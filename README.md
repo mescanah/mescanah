@@ -12,6 +12,7 @@
   <img align="left" alt="Mescanah's Medium" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 
+![]https://imgur.com/3tgnBF4
 
 <br />
 
