@@ -16,7 +16,7 @@
 
 <br />
 
-hi, i'm Nnaemeka Hillary Onah. I am passionate about data, an a data Analyst/Scientist I possess a unique set of skills that enable me to gather, analyze, and interpret complex data sets through developing data-driven strategies to optimize business operations and improve outcomes. 
+hi, i'm Nnaemeka Hillary Onah. I am passionate about data, as a data Analyst/Scientist I possess a unique set of skills that enable me to gather, analyze, and interpret complex data sets through developing data-driven strategies to optimize business operations and improve outcomes. 
 
 <img align="right" alt="GIF" src="https://github.com/mescanah/mescanah/blob/master/code.gif?raw=true" width="500" height="320" />
 
